@@ -1,29 +1,45 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Hairdresser, Beauty Salon & Day Spa in Penrith
+  url: https://esteemhairbeautyspa.com.au
+  image: https://nino-t.github.io/images/portofolio/esteem.jpg
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: Buycour.com - Online Shopping Brunei.
+  url: http://www.buycour.com
+  image: https://nino-t.github.io/images/portofolio/buycour.jpg
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: Aqua Gold
+  url: http://aquagoldbn.com
+  image: https://nino-t.github.io/images/portofolio/aquagold.jpg
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+- title: Digitaloutsource
+  url: http://digitaloutsource.asia  
+  image: https://nino-t.github.io/images/portofolio/dd.png
+  completed: true
+
+- title: Yellow Cab Pizza Co
+  url: https://yellowcabpizzabn.com
+  image: https://nino-t.github.io/images/portofolio/yellowcab.jpg
+  completed: true
+
+- title: Rennah Services SDN BHD
+  url: http://rennahservices.com
+  image: https://nino-t.github.io/images/portofolio/rennah.jpg
+  completed: true
+
+- title: SIVLILOGISTICS
+  url: http://sivlilogistics.com
+  image: https://nino-t.github.io/images/portofolio/sivli.png
+  completed: true
+
+- title: Hitpay
+  url: http://hr-btaid.holidayinn-batam.com
+  image: https://nino-t.github.io/images/portofolio/ess.png
+  completed: true
+
+- title: Smilebar Australia
+  url: http://demo.destinedigital.com/smilebar/
+  image: https://nino-t.github.io/images/portofolio/smilebar.jpg
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
