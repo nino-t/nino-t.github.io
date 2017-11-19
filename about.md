@@ -3,16 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm Trisno a web designer / developer based in Bandung, Indonesia. I have a passion for web design and love to create for web and mobile devices.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+What I can do.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- - - -
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Design what you want.
 
+`<me>` I like to keep it simple. My goals are to focus on typography, content and conveying the message that you want to send.
 
-[jekyll-organization]: https://github.com/jekyll
+Develop what you need.
+
+`<me>` I'm a developer, so I know how to create your website to run across devices using the latest technologies available.
