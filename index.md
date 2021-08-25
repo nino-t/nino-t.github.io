@@ -3,7 +3,7 @@ layout: home
 ---
 # About Trisno
 
-I'm Trisno a web designer / developer based in Bandung, Indonesia. I have a passion for web design and love to create for web and mobile devices.
+I'm Trisno a frontend engineer / developer based in Jakarta, Indonesia. I have a passion for web and mobile app development.
 
 .
 
@@ -17,4 +17,4 @@ Design what you want.
 
 Develop what you need.
 
-`<me>` I'm a developer, so I know how to create your website to run across devices using the latest technologies available.
+`<me>` I'm a developer, so I know how to create your web and app to run across devices using the latest technologies available.

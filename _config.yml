@@ -1,15 +1,15 @@
 # Site
-title: Trisno
-description: Web Developer
+title: Trisno Nino
+description: Frontend Engineer
 url: https://nino-t.github.io
-logo: me.png                                       # Site logo
+logo: me.png
 locale: en_US
 
 # Left Block Images
 background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/unsplash-image-10.jpg             # this image will be shown on post list page
-  default-post: images/unsplash-gallery-image-3.jpg   # this image will be shown when post's front matter doesn't specify any image
+  homepage: images/home.png
+  post-list: images/bg-secondary.jpeg
+  default-post: images/unsplash-gallery-image-3.jpg
 
 # Jekyll
 permalink:          /:title/
@@ -32,15 +32,15 @@ sass:
 email:             ninotrisno34@gmail.com
 #google.plus:        username
 #twitter:            username
-facebook:           zyngga.Trisno7
+# facebook:           zyngga.Trisno7
 github:             nino-t
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          trisno7
 #xing:              username
-#instagram:          username
+# instagram:          trisnoni__
 #lastfm:            username
 #tumblr:            username
-pinterest:         ninotrisno34
+# pinterest:         ninotrisno34
 #foursquare:        username
 #steam:              username
 #dribbble:          username
@@ -48,7 +48,7 @@ pinterest:         ninotrisno34
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-#codepen:           username
+codepen:           nino-tsx
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
