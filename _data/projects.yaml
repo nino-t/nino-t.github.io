@@ -43,3 +43,7 @@
   image: https://nino-t.github.io/images/portofolio/smilebar.jpg
   completed: false
 
+- title: Askaradesa
+  url: https://askaradesa.com/
+  image: https://nino-t.github.io/images/portofolio/askara.png
+  completed: true
