@@ -47,3 +47,13 @@
   url: https://askaradesa.com/
   image: https://nino-t.github.io/images/portofolio/askara.png
   completed: true
+
+- title: Supersoccer TV
+  url: https://supersoccer.tv/
+  image: https://nino-t.github.io/images/portofolio/sstv.png
+  completed: true
+
+- title: Mola TV
+  url: https://mola.tv/
+  image: https://nino-t.github.io/images/portofolio/mola.png
+  completed: true
